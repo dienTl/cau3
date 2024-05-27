@@ -1,0 +1,9 @@
+body{
+    min-width: 900px;
+}
+.abc{
+    background: rgb(224, 222, 222);
+}
+.ad{
+    display: flexbox;
+}
